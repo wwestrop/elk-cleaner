@@ -4,6 +4,8 @@
 > 
 > It's a dirty (yet educational) hack to investigate Dockerfiles, Bash scripting, and the ElasticSearch HTTP API
 
+[![Build Status](https://wwestrop.visualstudio.com/VS_Online_Test1/_apis/build/status/Docker%20container?branchName=master)](https://wwestrop.visualstudio.com/VS_Online_Test1/_build/latest?definitionId=2&branchName=master)
+
 ## Summary
 This originated to assist running an ELK stack in a disk-space-constrained environment, where I did not have access to admin settings or any other log-cleanup tools.
 
